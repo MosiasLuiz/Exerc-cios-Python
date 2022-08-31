@@ -1,0 +1,2 @@
+n = int(input('Escreva um número para ver sua tabuada: '))
+print('A tabuada desse numero é: \n1x{}={} 2x{}={} 3x{}={} 4x{}={} 5x{}={} 6x{}={} 7x{}={} 8x{}={} 9x{}={} 10x{}={}'.format(n, n*1, n, n*2, n, n*3, n, n*4, n, n*5, n, n*6, n, n*7, n, n*8, n, n*9, n, n*10))
